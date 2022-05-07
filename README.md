@@ -2,10 +2,7 @@
 
 
 - 🔭 Atualmente não estou trabalhando.
-- 🌱 Estou aprendendo HTML, CSS e JavaScript e sei um pouco de Python e NodeJS.
 - 🎓 Estudante do curso de Análise e Desenvolvimento de Sistema no Instituto Federal de Sergipe.
-- 📄 Tenho conhecimento em SQL utilizando o PostgreSQL e o MySQL.
-
 
 
 <div>
