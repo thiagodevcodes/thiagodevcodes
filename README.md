@@ -3,6 +3,8 @@
 
 - 🔭 Atualmente não estou trabalhando.
 - 🎓 Estudante do curso de Análise e Desenvolvimento de Sistema no Instituto Federal de Sergipe.
+- 🎓 HTML, CSS, JavaScript, NodeJS, MySQL.
+
 
 
 <div>
