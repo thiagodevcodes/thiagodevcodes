@@ -8,7 +8,7 @@
 
 
 <div>
-  <a href="https://github.com/thiagodevcodes">
+  <a href="https://github.com/thiagodevcodes"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -25,13 +25,14 @@
 </div>
   
 ##
-
+ <h2>Redes sociais: 
 <div>
-  <h2>Redes sociais: 
+ 
     <a href="https://www.instagram.com/thiagosilvazx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="__blank"></a>
     <a href="https://www.linkedin.com/in/thiagosilvaweb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a>
-  </h2>
+ 
 </div>
+ </h2>
   
 
 
