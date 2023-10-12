@@ -3,7 +3,7 @@
 
 - 🔭 Open to Work.
 - 🎓 Student of the System Analysis and Development course at the Federal Institute of Sergipe.
-- 📦 HTML, CSS, JavaScript, NodeJS, MySQL.
+- 📦 HTML, CSS, JavaScript, React, NodeJS, Java, Spring Boot, MySQL.
 - Portfolio: <a href="https://thiagodev.netlify.app">https://thiagodev.netlify.app</a>
 
 
