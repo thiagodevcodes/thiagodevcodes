@@ -8,7 +8,7 @@
 
 
 
-| Meu Github Stats | Top Linguagens |
+| Github Stats | Linguagens mais utilizadas |
 | --- | --- |
 | ![Github Status](https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&title_color=00CCFF&icon_color=00CCFF&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&show_icons=true&title_color=00CCFF&icon_color=00CCFF&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
