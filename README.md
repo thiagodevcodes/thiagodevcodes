@@ -8,11 +8,9 @@
 
 
 
-<div>
-  <a href="https://github.com/thiagodevcodes"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+| Meu Github Stats | Top Linguagens |
+| --- | --- |
+| ![Github Status](https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&title_color=9932CC&icon_color=9932CC&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&show_icons=true&title_color=9932CC&icon_color=9932CC&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ##
   
