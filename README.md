@@ -1,40 +1,38 @@
-### Hi! I'm Thiago Silva👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BBD7&height=180&section=header&&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+:%29;I'm+Thiago+Silva!+:%29;)](https://git.io/typing-svg)
 
 - 🔭 Open to Work.
 - 🎓 Student of the System Analysis and Development course at the Federal Institute of Sergipe.
-- 📦 HTML, CSS, JavaScript, React, NodeJS, Java, Spring Boot, MySQL.
+- Web Developer
 - Portfolio: <a href="https://thiagodev.netlify.app">https://thiagodev.netlify.app</a>
 
+## Skills
 
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E94D5F)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F2FF00)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00C3FF)
+![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF6600)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=00AC0E)
+![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=06BB02)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9C006B)](https://docs.github.com/)
 
-| Github Stats | Linguagens mais utilizadas |
-| --- | --- |
-| ![Github Status](https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&title_color=00CCFF&icon_color=00CCFF&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&show_icons=true&title_color=00CCFF&icon_color=00CCFF&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+## Contact
 
-##
-  
-<div>
-  <p>Technologies: 
-    <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Thiago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Thiago-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="Thiago-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  </p>
-</div>
-  
-##
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thiagosilvaweb/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
 
-<div>
-  <p>Social Media: 
-    <a href="https://www.instagram.com/thiagosilvazx/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="__blank"></a>
-    <a href="https://www.linkedin.com/in/thiagosilvaweb/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a>
-  </p>
+## GitHub Stats
+
+<div align="center"> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=00CCFF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BBD7&height=150&section=footer"/>
 
 
 
