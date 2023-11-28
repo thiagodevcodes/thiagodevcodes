@@ -28,8 +28,8 @@
 ## GitHub Stats
 
 <div align="center"> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=00CCFF&text_color=ffffff&bg_color=0d1117" />
+  <img width="300em" height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img width="230em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=00CCFF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BBD7&height=150&section=footer"/>
