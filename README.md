@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BBD7&height=180&section=header&&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=180&section=header&&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+:%29;I'm+Thiago+Silva!+:%29;)](https://git.io/typing-svg)
 
@@ -28,11 +28,11 @@
 ## GitHub Stats
 
 <div align="center"> 
-  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
-  <img width="305em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=00CCFF&text_color=ffffff&bg_color=0d1117" />
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=00CCFF&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img width="305em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=2f81f7&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04BBD7&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=150&section=footer"/>
 
 
 
