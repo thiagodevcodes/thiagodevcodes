@@ -1,13 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=180&section=header&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+:%29;I'm+Thiago+Silva!+:%29;)](https://git.io/typing-svg)
 
-- 🔭 Open to Work.
-- 🎓 Student of the System Analysis and Development course at the Federal Institute of Sergipe.
-- Web Developer
-- Portfolio: <a href="https://thiagodev.netlify.app">https://thiagodev.netlify.app</a>
+<div align="center">
 
-## Skills
+## 👋 Olá! Eu sou Thiago Silva
+
+Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web e estou em busca de uma oportunidade para me desenvolver profissionalmente.
+
+Portfolio: [https://thiagodev.netlify.app](https://thiagodev.netlify.app)
+
+</div>
+
+
+
+<div align="center">
+
+## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E94D5F)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)
@@ -20,19 +28,26 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9C006B)](https://docs.github.com/)
 
-## Contact
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thiagosilvaweb/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
+<div align="center">
+
+## Contato
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thiagosilvaweb/)
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
+</div>
+
+<div align="center">
 
 ## GitHub Stats
 
 <div align="center"> 
-  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
-  <img width="305em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=38B6FF&text_color=ffffff&bg_color=0d1117" />
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=ffffff&bg_color=0d1117" alt="thiago github stats" /> 
+  <img width="305em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=38B6FF&text_color=ffffff&bg_color=0d1117" alt="thiago languages stats" />
+</div>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=150&section=footer"/>
-
-
 
