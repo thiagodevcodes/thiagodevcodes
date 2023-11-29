@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## 👋 Olá! Eu sou Thiago Silva
+# 👋 Olá! Eu sou Thiago Silva
 
 Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web e estou em busca de uma oportunidade para me desenvolver profissionalmente.
 
