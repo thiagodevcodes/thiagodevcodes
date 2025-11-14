@@ -7,8 +7,6 @@
 
 Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web e estou em busca de uma oportunidade para me desenvolver profissionalmente.
 
-Portfolio: [https://thiagodev.vercel.app](https://thiagodev.vercel.app)
-
 </div>
 
 
