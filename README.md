@@ -42,8 +42,10 @@ Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvi
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 <div align="center"> 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=dark&utcOffset=8)
 </div>
 
 </div>
