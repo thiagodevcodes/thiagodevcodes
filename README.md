@@ -40,11 +40,14 @@ Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvi
 
 ## GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=algolia)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=algolia&utcOffset=8)
+  
+
+
 
 
 </div>
