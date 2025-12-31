@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=180&section=header&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 
+<div align="center">
+
 # 👋 Olá! Eu sou Thiago Silva
 
 Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web.
@@ -20,8 +22,10 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 
 
 ## Contato
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thiagosilvaweb/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
+
 
 ## GitHub Stats
 
@@ -33,4 +37,3 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=150&section=footer"/>
-
