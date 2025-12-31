@@ -1,14 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=180&section=header&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 
-<div align="center">
-
 # 👋 Olá! Eu sou Thiago Silva
 
-Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web.
+### Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web.
 
 ## Tecnologias
-
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E94D5F)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F2FF00)
@@ -22,13 +19,10 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 
 
 ## Contato
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thiagosilvaweb/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
 
-
 ## GitHub Stats
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=react" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=react" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=react" />
