@@ -39,16 +39,29 @@ Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvi
 
 ## GitHub Stats
 
-<div align="center" width="100%">
+<div align="center">
 
- 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=algolia) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=algolia) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=algolia)  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=algolia&utcOffset=3)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=algolia)
-  
+<!-- Primeira linha: 2 cards -->
+<table>
+<tr>
+  <td>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=algolia" />
+  </td>
+  <td>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=algolia" />
+  </td>
+</tr>
+</table>
+
+<!-- Segunda linha: 1 card -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=algolia" />
+
+<!-- Terceira linha: 1 card -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=algolia&utcOffset=3" />
+
+<!-- Quarta linha: 1 card -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=algolia" />
+
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=150&section=footer"/>
 
