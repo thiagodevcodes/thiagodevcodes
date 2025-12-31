@@ -36,7 +36,6 @@ Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvi
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
 </div>
 
-<div align="center">
 
 ## GitHub Stats
 
@@ -44,13 +43,8 @@ Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvi
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=algolia)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=algolia)
-  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=algolia&utcOffset=3)
 
-
-
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=150&section=footer"/>
 
