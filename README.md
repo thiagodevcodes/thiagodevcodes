@@ -40,9 +40,10 @@ Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvi
 
 ## GitHub Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 <div align="center"> 
-  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=ffffff&bg_color=0d1117" alt="thiago github stats" /> 
-  <img width="305em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevcodes&layout=compact&hide_border=true&title_color=38B6FF&text_color=ffffff&bg_color=0d1117" alt="thiago languages stats" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
 </div>
 
 </div>
