@@ -5,13 +5,7 @@
 
 # 👋 Olá! Eu sou Thiago Silva
 
-Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web e estou em busca de uma oportunidade para me desenvolver profissionalmente.
-
-</div>
-
-
-
-<div align="center">
+Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe com foco no desenvolvimento web.
 
 ## Tecnologias
 
@@ -26,28 +20,21 @@ Olá, sou o Thiago Silva e sou estudante da graduação em Análise e Desenvolvi
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9C006B)](https://docs.github.com/)
 
-</div>
-
-<div align="center">
 
 ## Contato
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thiagosilvaweb/)
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thiagosilvaweb/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
 
 
 ## GitHub Stats
 
-<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=react&utcOffset=3" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=react" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=react" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=react" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=react&utcOffset=3" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=150&section=footer"/>
 
