@@ -31,15 +31,4 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:euthiagosrodrigues@gmail.com)
 
 
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodevcodes&show_icons=true&theme=radical)
-
-<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
-<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
-<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodess&theme=react" />
-<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react&utcOffset=3" />
-<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=150&section=footer"/>
