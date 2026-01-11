@@ -18,8 +18,8 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=00AC0E)
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=06BB02)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=257bd6)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9C006B)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9C006B)](https://docs.github.com/)
 
 
 ## Contato
