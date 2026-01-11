@@ -10,7 +10,7 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 ## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E94D5F)
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoSize=auto&logoColor=38B2AC)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoSize=auto&logoColor=257bd6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F2FF00)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00C3FF)
 ![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -18,7 +18,7 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=00AC0E)
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=06BB02)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=257bd6)
-![Docker](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9C006B)](https://docs.github.com/)
 
