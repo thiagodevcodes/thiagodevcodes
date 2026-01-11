@@ -10,7 +10,7 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 ## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E94D5F)
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoSize=auto)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoSize=auto&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F2FF00)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00C3FF)
 ![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
