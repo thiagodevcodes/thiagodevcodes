@@ -33,6 +33,8 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 
 ## GitHub Stats
 
+![](http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=default)
+
 <img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
 <img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
 <img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodess&theme=react" />
