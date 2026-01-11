@@ -33,11 +33,11 @@ Olá, sou o Thiago Silva sou formado em Análise e Desenvolvimento de Sistemas p
 
 ## GitHub Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagodevcodes&theme=react" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagodevcodes&theme=react" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagodevcodes&theme=react" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagodevcodes&theme=react&utcOffset=3" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
+<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
+<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
+<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodess&theme=react" />
+<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react&utcOffset=3" />
+<img src="http://github-cards-thiago-bhrydlxk0-thiago-silvas-projects-1e6a9dc9.vercel.app/api/cards/profile-details?username=thiagodevcodes&theme=react" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=150&section=footer"/>
